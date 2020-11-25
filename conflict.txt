@@ -1,1 +1,1 @@
-sdfsdfsdfsdf
+conflict.txt
